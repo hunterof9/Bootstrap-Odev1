@@ -1,0 +1,39 @@
+*{box-sizing: border-box;}
+
+body {
+    background-color: #E9ECEF;
+}
+
+.list-inside {
+    list-style-position: inside;
+}
+
+.card {
+    width:300px;
+    height:400px;
+    background-color:rgb(20, 20, 167);
+    margin-bottom: 15px;
+    text-align: center;
+    justify-items: center;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+
+h1, .hakkimizda {
+    color:#f7bb17;
+}
+
+h5 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color:white ;
+}
+
+input.btn {
+    width:7em !important;
+    margin:0 auto;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+
+.navbar-brand {
+    color:crimson !important;;
+}
